@@ -1,0 +1,7 @@
+com\simplon\dto\InventoryResponse.class
+com\simplon\service\InventoryService.class
+com\simplon\controller\InventoryController.class
+com\simplon\repository\InventoryRepository.class
+com\simplon\InventoryServiceApplication.class
+com\simplon\dto\InventoryResponse$InventoryResponseBuilder.class
+com\simplon\model\Inventory.class

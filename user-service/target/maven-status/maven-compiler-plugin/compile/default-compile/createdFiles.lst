@@ -1,0 +1,11 @@
+com\simplon\dto\UserRequest.class
+com\simplon\controller\UserController.class
+com\simplon\model\User.class
+com\simplon\MicroServicesApplication.class
+com\simplon\service\UserService.class
+com\simplon\repository\UserRepository.class
+com\simplon\dto\UserResponse.class
+com\simplon\utils\UserDepartment.class
+com\simplon\dto\UserResponse$UserResponseBuilder.class
+com\simplon\model\User$UserBuilder.class
+com\simplon\dto\UserRequest$UserRequestBuilder.class
