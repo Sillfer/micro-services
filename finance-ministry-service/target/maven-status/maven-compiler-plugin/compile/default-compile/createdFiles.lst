@@ -1,0 +1,11 @@
+com\simplon\dto\InventoryResponse.class
+com\simplon\dto\OrderRequest.class
+com\simplon\OrderServiceApplication.class
+com\simplon\service\OrderService.class
+com\simplon\dto\InventoryResponse$InventoryResponseBuilder.class
+com\simplon\repository\OrderRepository.class
+com\simplon\model\OrderLineItems.class
+com\simplon\dto\OrderLineItemsDto.class
+com\simplon\config\WebClientConfig.class
+com\simplon\model\Order.class
+com\simplon\controller\OrderController.class

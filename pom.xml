@@ -16,8 +16,8 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>order-service</module>
-        <module>inventory-service</module>
+        <module>finance-ministry-service</module>
+        <module>justice-ministry-service</module>
         <module>user-service</module>
         <module>discovery-server</module>
     </modules>
