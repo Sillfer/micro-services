@@ -31,3 +31,8 @@ Réaliser la partie Backend en SpringBoot
 Créez minimum deux micros services par ministère, chaque entité par microservice
 Utilisation d’une base de données Relationnel (Mysql || PostgreSQL) et une non relationnelle( ElasticSearch)
 Gérer vos microservices à l’aide d’Eurika et Spring Getway
+
+## Conception de l'application
+> [Cahier des charges](https://www.canva.com/design/DAFacFWTqks/a-PB3elTzfnL4drHGNFClw/view?utm_content=DAFacFWTqks&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+>
+> [Diagramme de classe](https://drive.google.com/file/d/15P5xdXVFy8G8nDwoSHbjqs6VEKuu4DyQ/view?usp=sharing)
